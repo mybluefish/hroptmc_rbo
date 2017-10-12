@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+#mainAgendasTable{width: 100%; word-break: break-all; text-align:center; border-style:groove; border-width:thin}
+.rboTableTitle {background:#9CC; border-bottom-style:groove; border-bottom-color:#000; border-bottom-width:thin; line-height:30px; font-family:"雅黑"; text-align:left; font-size:20px}
+.meetingDateHeader {width: 262px}
+
+.roleNameCol {}
+.meetingAgendaRole {}
+
+#regPrompt{
+	/*background-color: #F0F8FF;*/
+	background-color:#FFF;
+	text-align: left;
+	position: absolute;
+	z-index: 100;
+}
+
+.regBorder{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #6495ED
+}

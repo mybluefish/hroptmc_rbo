@@ -1,0 +1,22 @@
+<?php
+
+
+$systemName = "Nanjing HROP Toastmasters Club Role Booking Online App";
+
+$version = "v1.0 Preview";
+
+$foot = "Copyright &copy; 2012 by Nanjing HROP Toastmasters Club. All rights reserved!";
+
+function echoTitle(){
+	global $systemName;
+	global $version;
+	echo $systemName." ".$version;
+}
+
+function echoFoot(){
+	global $foot;
+	echo $foot;
+}
+
+
+?>

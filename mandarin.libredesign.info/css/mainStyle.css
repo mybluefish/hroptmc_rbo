@@ -1,0 +1,314 @@
+@CHARSET "ISO-8859-1";
+
+#fixedMenuContainer{
+	/*position:fixed !important;*/
+	position:absolute; 
+	top:0px;
+	left:0px;
+	width: 100%;
+	background: #DCDCDC;
+	text-align: right;
+	line-height: 30px;
+	white-space : normal nowrap 
+}
+
+#menuLengthContainer{
+	width: 1280px;
+	background: #DCDCDC;
+}
+
+#logoBar{
+	overflow:hidden;
+	background: #E6E6FA;
+	text-align: left;
+	font-size: 17px;
+}
+
+#menuBar{
+	float: left;
+	width: 1000px;
+	text-align: left;
+	font-family: "Times New Roman";
+	font-size: 18px;
+}
+#statusBar{
+	width: 260px;
+	overflow:hidden;
+	font-size: 14px;
+}
+
+#mainBody{
+	text-align: center;
+	padding-top: 70px;
+}
+
+#regPrompt{
+	background-color: #F0F8FF;
+	text-align: left;
+	position: absolute;
+	z-index: 100;
+}
+/*
+#noticeShowUp{
+	background-color: #F0F8FF;
+	text-align: left;
+	position: absolute;
+	z-index: 1000;
+}*/
+
+.regBorder{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #6495ED
+}
+
+#mainPageContainer{
+	font-family: "Times New Roman";
+	font-size: 16px;
+}
+
+#mainAgendasTable{
+	width: 1310px;
+	word-break: break-all;
+}
+
+.roleNameTableClass{
+	background: #B0C4DE;
+}
+
+.rolesTableClass{
+	background: #E6E6FA;
+}
+
+.meetingNotRegular{
+	background: #B0E0E6;
+	font-size: 23px;
+	color: #0000CD;
+}
+
+#navigatorBar{
+	width: 1310px;
+	text-align: right;
+	font-size: 14px;
+	line-height: 30px;
+	background: #F0FFFF;
+}
+
+#footBar{
+	background: #00BFFF;
+	left:0px;
+	width: 100%;
+	text-align: left;
+	line-height: 30px;
+}
+
+#roleHeader0{
+	font-weight: bold;
+	color: blue;
+}
+
+
+#roleHeader1, #roleHeader2, #roleHeader3, #roleHeader4{
+	width: 250px;
+	font-weight: bold;
+}
+
+
+/**
+ * This is used for Role Rules Page
+ */
+
+#roleRulesNavigator{
+	width:150px;
+	top: 90px;
+	left: 40px;
+	border-width: 2px;
+	float: left;
+	position: fixed;
+	line-height: 25px;
+}
+
+#roleRulesContent{
+	width: 1000px;
+	left: 220px;
+	position: absolute;
+	border-color: #6495ED;
+	text-align: left;
+}
+
+#roleRulesNavigatorTable{
+	width:100%;
+}
+
+#oddLine{
+	background-color: #DCDCDC;
+}
+
+#evenLine{
+	background-color: #E6E6FA;
+}
+
+#roleList{
+	font-weight: bold;
+	background-color: #8A2BE2;
+}
+
+.singleRole{
+	padding: 10px;
+}
+
+#backToTop{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	z-index: 99;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+/**
+ * members.php
+ */
+#memberContainer{
+	width: 1280px;
+	font-family: "Times New Roman";
+	font-size: 16px;
+}
+
+#membersTable{
+	width: 100%;
+}
+
+#memberHeader{
+	font-weight: bold;
+	background-color: #8470FF;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.memberLine0{
+	background-color : #B0C4DE;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.memberLine1{
+	background-color : #E6E6FA;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.memberInvalid0{
+	background-color : #B0C4DE;
+	color: red;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.memberInvalid1{
+	background-color : #E6E6FA;
+	color: red;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#happyBirthday{
+	width: 100%;
+	text-align: left;
+	line-height: 30px;
+}
+
+#countNum{
+	text-align: left;
+	line-height: 30px;
+	width: 100%;
+}
+
+#countTable{
+	width: 100%;
+}
+
+#countBacktoTop{
+	text-align: right;
+}
+
+#memberMgmtAction{
+	width: 100%;
+	text-align: left;
+	line-height: 30px;
+}
+
+#memberMgmtTable{
+	width: 100%;
+}
+
+#addMemberAction{
+
+}
+
+#meetingclosed{
+	color: #BBBBBB;
+}
+
+#meetingpassed{
+	color: orange;	
+}
+
+#meetingopen{
+	color: #76EE00;
+}
+
+a#editMeetingLink:link{
+	color: #76EE00;
+}
+
+a#editMeetingLink:hover{
+	color: #FFFFFF;
+}
+
+/**
+ * 
+ */
+.dataSelectDiv{
+	float: left;
+	width: 250px;
+	text-align: left;
+	leftpadding: 50px;
+}
+
+.agendaUpdateDiv{
+	width: 1200px;
+}
+
+#agendaTableToUpdate{
+	text-align: left;
+	border: dotted;
+	border-width: 1px;
+}
+
+#regContestContainer{
+	text-align: center;
+}
+
+#regContestInputContainer{
+	/*border: dotted;
+	border-width: 1px;*/
+	text-align: left;
+	width:1000px
+}
+
+#contestStatisticsContainer{
+
+	text-align: left;
+	width:1000px
+}
+
+#contestNameListContainer{
+
+	text-align: left;
+	width:1000px
+}
+
+.tableTitle{
+	font-weight: bolder;
+}

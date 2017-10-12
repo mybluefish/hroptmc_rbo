@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ToastMastersClubRoleRules>
+	<Role>
+		<ShortName>TME</ShortName>
+		<Name>ToastMaster of the Evening(TME)</Name>
+		<Duty>
+1) Ensure that you arrive latest by 6:45pm. Check if the main role-takers such as GE, Speakers, Timer, Grammarian, 
+Ah-counter and TTM have arrived.
+
+2) Announce and encourage all to applause and shake-hands at the change over.
+
+3) Announce any sudden role-changes.
+
+4) You must properly introduce all Speakers. You are to mention who is their Evaluator and the time allowed if the 
+evaluator fails to do so.  You are to address all Speakers without any educational titles as Toastmasters and then 
+their name.
+
+If they have attained any titles, then you are to introduce by saying their title first then their name.
+
+You can also introduce to the audience the background of the speaker, when this person joined Toastmasters, occupation, 
+company and hobbies. 
+
+E.g. The first speaker will be doing his P6 speech. Before his speech, I will ask his evaluator to read to ask the 
+objectives of the speech. His evaluator is TM___________. Thank you. 
+
+The speaker joined our club about six months ago; He is a sales manager with ABC Company. Speaking on the 
+title: _______________. Let’s welcome TM____________ or CC, CL ____________.
+
+5) You are to ask the Individual Evaluator to read out the objective of the Speech 
+
+6) If the person is NOT from our own Club, then mention which club that person’s belongs to and also the position in the 
+club with the level attained. (CC, ACB, ACS, ACG, ACB and ACS). You can also mention when they joined TM and which clubs 
+they have founded.
+
+7) Remember, you are to maintain the energy of the room and make adjustments to the agenda and program when it is necessary 
+in order to maintain a high level meeting with consultation to the President.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>Timer</ShortName>
+		<Name>Timer</Name>
+		<Duty>
+		Timing.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>Ah Counter</ShortName>
+		<Name>Ah Counter</Name>
+		<Duty>
+		Calcute the ah, en used.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>Grammarian</ShortName>
+		<Name>Grammarian</Name>
+		<Duty>
+		Calcute the ah, en used.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>TTM</ShortName>
+		<Name>Table Topic Master(TTM	)</Name>
+		<Duty>
+		Calcute the ah, en used.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>GE</ShortName>
+		<Name>General Evaluator(GE)</Name>
+		<Duty>
+		Evaluate the whole meeting.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>Joke Master</ShortName>
+		<Name>Joke Master</Name>
+		<Duty>
+		Calcute the ah, en used.
+			jjasdfasdf
+			adfadf
+			asdffas
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>Speaker</ShortName>
+		<Name>Speaker</Name>
+		<Duty>
+		Calcute the ah, en used.
+		</Duty>
+	</Role>
+	<Role>
+		<ShortName>IE</ShortName>
+		<Name>Individual Evaluator</Name>
+		<Duty>
+		Calcute the ah, en used.
+		</Duty>
+	</Role>
+</ToastMastersClubRoleRules>
